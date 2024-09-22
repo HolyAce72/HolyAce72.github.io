@@ -1,4 +1,5 @@
-# Ethan Eaton 
-eoeaton@my.waketech.edu
-I made this repository for a lab
-First i made an repository than I want on Gethub dasktop and made a clone 
+# HolyAce72.github.io
+Ethan Eaton 
+I made this for account for a class 
+I made it for a lab 
+First you make a repository than you download github dasktop and make a clone
