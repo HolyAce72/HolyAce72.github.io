@@ -16,9 +16,9 @@ Ethan Eaton
 * Swimming 
  
  ## Websites I Recommend
- * [Bible](www.bible.com)
+ * [Bible](https://www.bible.com)
  * I can read or listen to the bible.
- * [Youtube](www.youtube.com) 
+ * [Youtube](https://www.youtube.com) 
    * On youtube I can learn how to improve in tennis and there's so much interesting content I can watch. 
- * [Chatgpt](chatgpt.com)
+ * [Chatgpt](https://chatgpt.com)
     * With Chatgpt  help me make my writing better. 
